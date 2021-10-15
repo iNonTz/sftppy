@@ -6,9 +6,9 @@ from os import walk
 
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-config_file = 'config-inhouse.json'
+config_file = 'config.json'
 private_key = 'privateKeyForCrawler.pem'
-remote_path = '/home/crawler/app/'
+remote_path = '/home/'
 localpath =  ROOT_DIR + '\\Paste_File_Here\\'
 # filename = ['NONTEST.txt']
 filename = []
