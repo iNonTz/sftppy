@@ -1,0 +1,9 @@
+{
+    "servers":[
+        {
+            "name": "MAKO-IN",
+            "ip": "192.168.2.88",
+            "username": "root"
+        }
+    ]
+}
