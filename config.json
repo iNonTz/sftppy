@@ -2,7 +2,7 @@
     "servers":[
         {
             "name": "ServerName",
-            "ip": "192.168.2.88",
+            "ip": "xxx.xxx.x.x",
             "username": "root"
         }
     ]
